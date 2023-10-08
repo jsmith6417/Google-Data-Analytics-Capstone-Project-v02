@@ -3,5 +3,5 @@
 # 4 files:
 # Python code in Jupyter Notebook format (ipynb)
 # Internal report for data analysis team (pdf)
-# Presenation Handout
+# Presenation Handout (pdf)
 # Link to Tableau presentation
