@@ -10,4 +10,4 @@ Internal report for data analysis team (pdf)
 
 Presenation Handout (pdf)
 
-Presentation on Tableau Public: https://public.tableau.com/shared/48JPZSMHC?:display_count=n&:origin=viz_share_link
+Presentation on Tableau Public: https://public.tableau.com/views/DivvyBikesharev02/DivvyBikesMembership?:language=en-US&:display_count=n&:origin=viz_share_link
